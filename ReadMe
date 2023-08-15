@@ -1,0 +1,10 @@
+Bu Projemde EnUygun.com üzerinden bir otel rezervasyon otomasyonu oluşturdum
+
+
+Test Senaryousu şu şekilde ;
+
+1-Kullanıcı enuygun.com adresi üzerine giriş yapar
+2-kullanıcı otel bölümünde gitmet isteği yeri box içerisine yazar
+3-gitmek istediği taraihleri tarih alanına giriş yapar ve arama butonuna tıklar
+4-kullanıcı kendi isteği üzere 9 yıldızdan olan butona tılar ve isteği otelin üzerine tıklar
+5-kullnaıcı bulduğu otele rezervasyon için rezervasyon yap butonuna tıklar
